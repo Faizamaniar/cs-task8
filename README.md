@@ -13,7 +13,6 @@ Working with VPNs
 4. Confirmed encrypted traffic by browsing a website.
 5. Compared browsing before & after VPN connection.
 
-
 # Summary: VPN Benefits and Limitations
 
 **Benefits of VPNs:**
@@ -30,7 +29,7 @@ Working with VPNs
 4. Restricted Services – Some websites (like banking apps or streaming platforms) block traffic from known VPN servers.
 5. Limited Free Plans – Free VPNs often restrict bandwidth, speed, or server locations, making them unsuitable for heavy usage.
 
-## Key Concepts: VPN, encryption, privacy, tunneling protocols, network security
+## Key Concepts: VPN, encryption, privacy, tunneling protocols, network security.
 
 **Screenshots Added**
 1. Before VPN
